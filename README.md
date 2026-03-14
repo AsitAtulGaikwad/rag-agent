@@ -26,7 +26,7 @@ This project demonstrates a Retrieval Augmented Generation (RAG) system that ans
 
 ## Workflow Architecture
 
-![RAG Workflow](https://ibb.co/rR18zgkd)
+![RAG Workflow](https://image2url.com/r2/default/images/1773511230367-e10718e1-c9fd-4409-a102-263d822a1722.png)
 
 ## Features
 - Document-based question answering
