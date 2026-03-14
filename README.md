@@ -24,7 +24,7 @@ The agent uses Retrieval-Augmented Generation (RAG) to answer questions based on
 
 This project demonstrates a Retrieval Augmented Generation (RAG) system that answers questions based on a knowledge base.
 
-## Workflow Architecture
+## RAG Agent Workflow
 
 ![RAG Workflow](https://image2url.com/r2/default/images/1773511230367-e10718e1-c9fd-4409-a102-263d822a1722.png)
 
