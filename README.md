@@ -34,3 +34,11 @@ This project demonstrates a Retrieval Augmented Generation (RAG) system that ans
 - Document-based question answering
 - AI agent workflow
 - Knowledge retrieval using vector search
+
+- ## Tutorial Reference
+
+This project was inspired by the RAG Assistant tutorial provided by Sim AI.
+
+You can view the tutorial here:
+
+🔗 https://www.sim.ai/chat/tutorial-rag-assistant
