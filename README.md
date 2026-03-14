@@ -20,6 +20,15 @@ The agent uses Retrieval-Augmented Generation (RAG) to answer questions based on
 - AI Agent workflows
 - Sim AI platform
 
-## RAG Agent Workflow
+# RAG Based AI Assistant using Sim AI
+
+This project demonstrates a Retrieval Augmented Generation (RAG) system that answers questions based on a knowledge base.
+
+## Workflow Architecture
 
 ![RAG Workflow](https://i.ibb.co/rR18zgkd/rag-workflow.png)
+
+## Features
+- Document-based question answering
+- AI agent workflow
+- Knowledge retrieval using vector search
