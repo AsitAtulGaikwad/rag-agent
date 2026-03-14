@@ -20,4 +20,6 @@ The agent uses Retrieval-Augmented Generation (RAG) to answer questions based on
 - AI Agent workflows
 - Sim AI platform
 
-Workflow:-
+## RAG Agent Workflow
+
+![RAG Workflow](https://i.ibb.co/rR18zgkd/rag-workflow.png)
